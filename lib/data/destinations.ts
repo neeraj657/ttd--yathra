@@ -35,7 +35,7 @@ export const destinationsData: DestinationItem[] = [
     distance: '5 km from Tirupati Center',
     timing: '05:00 AM – 09:00 PM',
     significance: 'Pilgrimage custom holds that a Tirupati yatra is complete only after receiving the motherly grace of Goddess Padmavathi.',
-    image: 'https://images.unsplash.com/photo-1609766857329-873b88936940?auto=format&fit=crop&w=1200&q=80',
+    image: 'https://images.unsplash.com/photo-1599839575945-a9e5af0c3fa5?auto=format&fit=crop&w=1200&q=80',
     description: 'Located in Tiruchanur (Alamelu Mangapuram), this serene temple honors Goddess Lakshmi who emerged from the golden lotus in the Padma Sarovaram tank.',
     keyRitual: 'Kumkumarchana & Padma Sarovaram holy dip'
   },

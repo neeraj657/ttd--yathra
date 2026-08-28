@@ -112,7 +112,7 @@ export const packagesData: PackageItem[] = [
     priceUnit: 'per person (min 3 pax)',
     isPopular: true,
     badge: 'Most Popular',
-    heroImage: 'https://images.unsplash.com/photo-1609766857329-873b88936940?auto=format&fit=crop&w=1200&q=80',
+    heroImage: 'https://images.unsplash.com/photo-1599839575945-a9e5af0c3fa5?auto=format&fit=crop&w=1200&q=80',
     shortDescription: 'Our signature family package with extra buffer time, spacious family rooms, dedicated chauffeur for all 3 days, and special elder assistance.',
     fullDescription: 'Crafted specifically for families travelling with children or elderly parents. This 3-day pilgrimage removes all anxiety by giving ample rest between temple visits. You will experience the divine Srivari Darshan, visit the scenic theerthams atop Tirumala, receive blessings at Padmavathi Ammavari temple, and explore the miraculous Varasiddhi Vinayaka temple at Kanipakam.',
     inclusions: [
